@@ -1,4 +1,4 @@
-# Hi, I'm Neel Maddu 👋
+# Hi, I'm Neel Maddu
 **Computer Science @ Georgia Tech | [cite_start]Intelligence & Systems and Architecture | iOS Club Senior Developer** [cite: 4, 6, 31, 32]
 
 ### Skills
