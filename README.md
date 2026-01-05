@@ -22,4 +22,4 @@ Includes text-to-speech functionality and real-time webcam integration.
 
 ### Contact Me
 * **Email:** [nmaddu3@gatech.edu](mailto:nmaddu3@gatech.edu)  
-* **LinkedIn:** [linkedin.com/in/neel-maddu](https://www.linkedin.com/in/neel-maddu)  
+* **LinkedIn:** [linkedin.com/in/neel-maddu](https://www.linkedin.com/in/neel-maddu-691338296)  
